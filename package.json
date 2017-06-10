@@ -1,0 +1,9 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Website containing information (resume, hobbies, etc)",
+  "main": "index.js",
+  "repository": "https://github.com/manixate/personal-website.git",
+  "author": "Muhammad Azeem <manixate@gmail.com>",
+  "license": "MIT"
+}
